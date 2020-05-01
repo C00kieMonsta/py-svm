@@ -2,14 +2,14 @@
 
 ## Setup env
 
-`python3 -m venv env`
-`source ./env/bin/activate`
+- `python3 -m venv env`
+- `source ./env/bin/activate`
 
 ## Install dependencies inside env
 
-`python3 -m pip install numpy`
-`python3 -m pip install matplotlib`
-`python3 -m pip install scikit-learn`
+- `python3 -m pip install numpy`
+- `python3 -m pip install matplotlib`
+- `python3 -m pip install scikit-learn`
 
 ## Run
 
